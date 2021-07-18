@@ -1,2 +1,2 @@
 # fMRI_time-series_analysis
-Some points about fMRI based time series analysis methods
+Some points about fMRI time series based analysis methods
